@@ -18,7 +18,6 @@ This project is part of my **WeIntern Embedded Systems Internship**. It demonstr
 - **GPIO Registers:** Configured pins as `OUTPUT` to drive the LEDs.
 - **Code Logic:** Implemented a sequential delay-based "Chaser" effect.
 
-## 📸 Output Screenshot
 ## 📸 Simulation Results
 Below are the screenshots of the sequential LED control:
 
